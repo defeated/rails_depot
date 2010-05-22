@@ -19,6 +19,8 @@ gem 'sqlite3-ruby', :require => 'sqlite3'
 # gem 'sqlite3-ruby', :require => 'sqlite3'
 # gem 'aws-s3', :require => 'aws/s3'
 
+gem 'will_paginate', '>= 3.0.pre'
+
 # Bundle gems for certain environments:
 # gem 'rspec', :group => :test
 # group :test do
