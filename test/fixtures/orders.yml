@@ -1,13 +1,13 @@
 # Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
 
 one:
-  name: MyString
-  address: MyText
-  email: MyString
+  name: Eddie Cianci
+  address: 123 Street St.
+  email: mail@domain.com
   pay_type: Check
 
 two:
-  name: MyString
-  address: MyText
-  email: MyString
+  name: Eddie Cianci
+  address: 123 Street St.
+  email: mail@domain.com
   pay_type: Check
